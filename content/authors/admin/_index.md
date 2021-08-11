@@ -74,4 +74,4 @@ I am a PhD candidate in Econometrics at the University of St. Gallen.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-You can download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+You can download my [CV](https://drive.google.com/file/d/1vUhkUttsssG09BHWSN-qHw9AC0Nrskxd/view?usp=sharing).
