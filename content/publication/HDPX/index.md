@@ -20,8 +20,8 @@ publishDate: "2021-08-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Ongoing
-publication_short: Ongoing
+publication: Work in progress
+publication_short: Work in progress
 
 abstract: Abstract on HDPX
 

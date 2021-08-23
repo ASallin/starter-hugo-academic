@@ -25,7 +25,7 @@ publication_types: ["2"]
 publication: Journal of Human Resources (2021)
 publication_short: Journal of Human Resources (2021)
 
-abstract: We study the causal impact of intellectually gifted students on their nongifted classmates’ school achievement, enrollment in post-compulsory education, and occupational choices. Using student-level administrative and psychological data, we find a positive effect of exposure to gifted students on peers’ school achievement in both math and language. This impact is heterogeneous. Larger effects are observed among male students and high achievers; female students benefit primarily from female gifted students; effects are driven by gifted students not diagnosed with emotional or behavioral disorders. Exposure to gifted students increases the likelihood of choosing a selective academic track and occupations in STEM fields. 
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: We study the causal impact of intellectually gifted students on their nongifted classmates’ school achievement, enrollment in post-compulsory education, and occupational choices. Using student-level administrative and psychological data, we find a positive effect of exposure to gifted students on peers’ school achievement in both math and language. This impact is heterogeneous. Larger effects are observed among male students and high achievers; female students benefit primarily from female gifted students; effects are driven by gifted students not diagnosed with emotional or behavioral disorders. Exposure to gifted students increases the likelihood of choosing a selective academic track and occupations in STEM fields.
@@ -71,5 +71,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+We study the causal impact of intellectually gifted students on their nongifted classmates’ school achievement, enrollment in post-compulsory education, and occupational choices. Using student-level administrative and psychological data, we find a positive effect of exposure to gifted students on peers’ school achievement in both math and language. This impact is heterogeneous. Larger effects are observed among male students and high achievers; female students benefit primarily from female gifted students; effects are driven by gifted students not diagnosed with emotional or behavioral disorders. Exposure to gifted students increases the likelihood of choosing a selective academic track and occupations in STEM fields. 
 
 Media coverage: the St. Galler [Tagblatt](https://www.tagblatt.ch/leben/hochbegabung-begabte-jugendliche-befeuern-die-leistung-der-ganzen-klasse-jedenfalls-wenn-es-maedchen-sind-ld.2148101) and interview on [Youtube](https://www.youtube.com/watch?v=db84CGAyF_4).
