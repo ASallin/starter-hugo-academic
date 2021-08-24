@@ -14,9 +14,9 @@ font_size: m
 
 site_type: Person
 local_business_type: ''
-org_name: ''
+org_name: 'Aurelien Sallin'
 description: ''
-twitter: ''
+twitter: 'AurelienSallin'
 
 # Contact (edit or remove options as required)
 
@@ -113,7 +113,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'google-site-verification=gOl0t6eKuZXT9m782DBXvlDREHwL8rGS5DIJCVq2XHw'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
