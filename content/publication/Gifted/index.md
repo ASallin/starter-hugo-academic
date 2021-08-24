@@ -36,9 +36,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: "Media: Tagblatt"
+   url: https://www.tagblatt.ch/leben/hochbegabung-begabte-jugendliche-befeuern-die-leistung-der-ganzen-klasse-jedenfalls-wenn-es-maedchen-sind-ld.2148101
 
 url_pdf: 'http://jhr.uwpress.org/content/early/2021/02/03/jhr.58.4.0920-11170R1.full.pdf+html'
 url_code: ''
@@ -47,7 +47,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=db84CGAyF_4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
