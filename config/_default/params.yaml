@@ -15,7 +15,7 @@ font_size: m
 site_type: Person
 local_business_type: ''
 org_name: 'Aurelien Sallin'
-description: ''
+description: 'Researcher, economist, PhD candidate'
 twitter: 'AurelienSallin'
 
 # Contact (edit or remove options as required)
@@ -113,9 +113,9 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: google-site-verification=gOl0t6eKuZXT9m782DBXvlDREHwL8rGS5DIJCVq2XHw
+  google_analytics: 
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: 'google-site-verification=gOl0t6eKuZXT9m782DBXvlDREHwL8rGS5DIJCVq2XHw'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
