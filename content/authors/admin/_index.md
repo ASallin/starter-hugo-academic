@@ -73,7 +73,7 @@ highlight_name: true
 
 Welcome. 
 
-I am a PhD candidate in Economics (specialization in Econometrics) at the [Graduate Programme in Economics and Finance (GPEF)](https://www.unisg.ch/en/forschung/doktorat/graduateprogrammeeconomicsandandfinance) of the University of St. Gallen. 
+I am a PhD candidate in Economics (specialization in Econometrics) at the [Graduate Programme in Economics and Finance (GPEF)](https://www.unisg.ch/en/forschung/doktorat/graduateprogrammeeconomicsandandfinance) of the University of St. Gallen. My supervisor is [Beatrix Eugster](https://www.beatrixeugster.ch/).
 
 My research lies at the intersection between Economics of Education, applied causal Machine-Learning, and Policy Evaluation. In my thesis, I assess policies that foster better educational and economic outcomes for students from minority groups (such as gifted students or students with special needs). I am passionate about developing inclusive, welfare-increasing education policies that guarantee fair initial academic conditions by means of innovative machine-learning estimation procedures. 
 
