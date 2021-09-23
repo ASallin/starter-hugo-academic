@@ -5,14 +5,14 @@ subtitle:
 authors:
 - Aurélien Sallin
 
-date: "2021-08-01T00:00:00Z"
+date: "2021-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-08-01T00:00:00Z"
+publishDate: "2021-09-01T00:00:00Z"
 
 # Date updated
-lastmod: "2021-08-10T00:00:00Z"
+lastmod: "2021-09-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,8 @@ publication_short: Work in progress
 
 
 # Summary for listings and search engines
-summary: While the number of students with identified special needs is increasing in developed countries, there is little evidence on returns to special education in terms of academic outcomes and labor market integration. I investigate short- and long-term returns to special education programs for students with special needs using recent advances in causal machine-learning and computational text analysis. By leveraging detailed student-level written psychological records as well as administrative data, I find that special education programs in inclusive settings have positive returns on academic performance in math and language as well as on employment and wages. Moreover, I uncover an overall positive effect of inclusive special education programs in comparison to segregated programs. However, I find that segregation benefits mostly for nonnative and disruptive students. Finally, using shallow decision trees, I deliver optimal placement rules that increase overall returns for students with special needs and lower educational costs for all.
+summary: While the number of students with identified special needs is increasing in developed countries, there is little evidence on returns to special education in terms of academic outcomes and labor market integration. In this paper, I investigate short- and long-term returns to special education programs for students with special needs using recent advances in causal machine learning and computational text analysis. By leveraging detailed student-level written psychological records as well as administrative data, I find that special education programs in inclusive settings have positive returns on academic performance in math and language as well as on employment and wages. Moreover, I uncover a positive effect of inclusive special education programs in comparison to segregated programs. However, segregation benefits mostly nonnative and students with emotional or behavioral problems. Finally, using shallow decision trees, I deliver optimal placement rules that increase overall returns for students with special needs and lower special education costs. These placement rules would reallocate most students with special needs from segregation to inclusion, which reinforces the conclusion that inclusion is beneficial to students with special needs. 
+
 
 tags: []
 
@@ -38,7 +39,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/107Nj2l3LgDpGxCkFDXnll7oCCeZ-Yz4c/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -72,4 +73,4 @@ image:
 categories: ""
 
 ---
-While the number of students with identified special needs is increasing in developed countries, there is little evidence on returns to special education in terms of academic outcomes and labor market integration. I investigate short- and long-term returns to special education programs for students with special needs using recent advances in causal machine-learning and computational text analysis. By leveraging detailed student-level written psychological records as well as administrative data, I find that special education programs in inclusive settings have positive returns on academic performance in math and language as well as on employment and wages. Moreover, I uncover an overall positive effect of inclusive special education programs in comparison to segregated programs. However, I find that segregation benefits mostly for nonnative and disruptive students. Finally, using shallow decision trees, I deliver optimal placement rules that increase overall returns for students with special needs and lower educational costs for all.
+While the number of students with identified special needs is increasing in developed countries, there is little evidence on returns to special education in terms of academic outcomes and labor market integration. In this paper, I investigate short- and long-term returns to special education programs for students with special needs using recent advances in causal machine learning and computational text analysis. By leveraging detailed student-level written psychological records as well as administrative data, I find that special education programs in inclusive settings have positive returns on academic performance in math and language as well as on employment and wages. Moreover, I uncover a positive effect of inclusive special education programs in comparison to segregated programs. However, segregation benefits mostly nonnative and students with emotional or behavioral problems. Finally, using shallow decision trees, I deliver optimal placement rules that increase overall returns for students with special needs and lower special education costs. These placement rules would reallocate most students with special needs from segregation to inclusion, which reinforces the conclusion that inclusion is beneficial to students with special needs.
