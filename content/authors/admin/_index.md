@@ -18,10 +18,12 @@ bio: My research interests include health and education economics, as well as ma
 
 # Interests to show in About widget
 interests:
-- Education economics 
-- Health economics
+- Applied Microeconometrics 
 - (Causal) Machine Learning
-- Policy evaluation
+- Computational Text Analysis
+- Policy Evaluation
+- Health and Education Economics
+
 
 # Education to show in About widget
 #education:
@@ -75,7 +77,7 @@ Welcome.
 
 I am a PhD candidate in Economics (specialization in Econometrics) at the [Graduate Programme in Economics and Finance (GPEF)](https://www.unisg.ch/en/forschung/doktorat/graduateprogrammeeconomicsandandfinance) of the University of St. Gallen. My supervisor is [Beatrix Eugster](https://www.beatrixeugster.ch/).
 
-As an applied econometrician, I use up-to-date (causal) machine-learning methods, computational text analysis, and traditional policy evaluation tools to better understand policies in the field of health, labor, and education economics. In my thesis, I investigate the situation of students from minority groups (such as [gifted students](http://jhr.uwpress.org/content/early/2021/02/03/jhr.58.4.0920-11170R1.full.pdf+html) or [students with special needs](https://drive.google.com/file/d/107Nj2l3LgDpGxCkFDXnll7oCCeZ-Yz4c/view)) in inclusive educational settings. I am passionate about developing inclusive, welfare-increasing education policies that guarantee fair academic conditions. 
+My research interests are in applied microeconometrics, (causal) machine learning, and computational text analysis applied to pressing research questions in diverse domains, with the aim of thorough policy evaluation and strong policy recommendation. In my thesis, I investigate the situation of students from minority groups (such as [gifted students](http://jhr.uwpress.org/content/early/2021/02/03/jhr.58.4.0920-11170R1.full.pdf+html) or [students with special needs](https://drive.google.com/file/d/107Nj2l3LgDpGxCkFDXnll7oCCeZ-Yz4c/view)) in inclusive educational settings. I am passionate about developing inclusive, welfare-increasing education policies that guarantee fair academic conditions. 
 
 In addition to my research in Economics, I am a philosopher and trained Logic-based therapist with the [NPCA](https://npcassoc.org/). I am engaged in working on problems of [climate grief and "climate-friendly" virtues](https://www.pdcnet.org/ijpp/content/ijpp_2021_0007_0001_0011_0026). When not coding or writing, you'll find me [running or biking](https://www.strava.com/athletes/14815281), cooking, baking sourdough bread, or collaborating on the [Intergifted project](https://www.intergifted.com) with my wife Jennifer.  
 
