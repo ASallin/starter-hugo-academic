@@ -1,5 +1,5 @@
 ---
-title: "High-Ability Influencers? The Heterogeneous Effects of Gifted Classmates "
+title: "High-Ability Influencers? The Heterogeneous Effects of Gifted Classmates"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,7 +13,7 @@ date: "2021-02-01T00:00:00Z"
 doi: "doi:10.3368/jhr.58.4.0920-11170R1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-08-01T00:00:00Z"
+publishDate: "2021-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,8 +22,8 @@ publishDate: "2021-08-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Human Resources (2021)
-publication_short: Journal of Human Resources (2021)
+publication: Journal of Human Resources
+publication_short: Journal of Human Resources
 
 abstract: ""
 

@@ -1,5 +1,5 @@
 ---
-title: "High-dimensional Peer Effects "
+title: "High-dimensional Peer Effects"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -23,7 +23,7 @@ publication_types: ["3"]
 publication: Work in progress
 publication_short: Work in progress
 
-abstract: Abstract on HDPX
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -39,7 +39,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/ASallin/hdpx'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -70,4 +70,4 @@ projects: []
 slides: ""
 ---
 
-
+Despite a boom of peer-effect studies in the past 10 years, most spillovers in the classroom have been analyzed in isolation, i.e. researchers have focused on the effect of one particular type of peers on classmates (for instance, the effect of high-ability peers). This view fails to take into account the fact that peer effects are, in reality, more complex. Indeed, individual effects are important, and average effects very likely miss the complexity of spillovers. In this paper, we develop a more general empirical approach that considers the systematic interaction between a rich array of peer types and nonlinearities of spillovers. We use machine-learning methods to (1) understand which dimensions in the classroom are the most predictive of academic success; (2) estimate high-dimensional peer effects functions; and finally (3) conduct policy-relevant simulations. We find that own types are the most predictive of academic success, and that average peer effects are likely to miss important heterogeneity.
