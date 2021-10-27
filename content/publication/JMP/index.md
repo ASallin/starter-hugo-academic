@@ -21,8 +21,8 @@ lastmod: "2021-09-10T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Work in progress
-publication_short: Work in progress
+publication: Working paper
+publication_short: Working paper
 
 
 # Summary for listings and search engines
@@ -35,9 +35,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: "Arxiv"
+  url: https://arxiv.org/abs/2110.08807
 
 url_pdf: 'https://drive.google.com/file/d/107Nj2l3LgDpGxCkFDXnll7oCCeZ-Yz4c/view?usp=sharing'
 url_code: ''

@@ -24,7 +24,7 @@ publication_types: ["3"]
 publication: Work in progress
 publication_short: Work in progress
 
-abstract: Abstract on HDPX
+abstract: We investigate the behaviors of patients addicted to opioids following the closing of “pill mills” in the state of Florida. We have gathered an impressive dataset from disparate sources, with the aim of developing an identification strategy that relies on spatial matching in a high-dimensional covariate space.
 
 # Summary. An optional shortened abstract.
 summary: 

@@ -81,4 +81,4 @@ My research interests are in applied microeconometrics, (causal) machine learnin
 
 In addition to my research in Economics, I am a philosopher and trained Logic-based therapist with the [NPCA](https://npcassoc.org/). I am engaged in working on problems of [climate grief and "climate-friendly" virtues](https://www.pdcnet.org/ijpp/content/ijpp_2021_0007_0001_0011_0026). When not coding or writing, you'll find me [running or biking](https://www.strava.com/athletes/14815281), cooking, baking sourdough bread, or collaborating on the [Intergifted project](https://www.intergifted.com) with my wife Jennifer.  
 
-You can download my CV [here](https://drive.google.com/file/d/1F4rkPPEMtF4aJy6h1c0cDlswmyz9geBy/view?usp=sharing).
+I am looking forward to meeting you at the European Job Market 2021!
