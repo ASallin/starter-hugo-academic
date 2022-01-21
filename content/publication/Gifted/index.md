@@ -9,11 +9,11 @@ authors:
 - Aurélien Sallin
 - Stefan Wolter
 
-date: "2021-02-01T00:00:00Z"
+date: "2021-10-01T00:00:00Z"
 doi: "doi:10.3368/jhr.58.4.0920-11170R1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-02-01T00:00:00Z"
+publishDate: "2021-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
